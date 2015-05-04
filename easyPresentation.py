@@ -246,8 +246,8 @@ def addStyles(rawText, path, input_file_path):
                     # Creating a folder inside css folder and copying back-ground image into that folder.
                     if not os.path.exists(path + "css" + os.path.sep + "bgimages" + os.path.sep):
                         os.makedirs(path+"css" + os.path.sep + " bgimages" + os.path.sep)
-                    shutil.copy(input_file_path+value, path + "css" + os.path.sep + "bgimages" + os.path.sep + "bg.jpg")
-                    value = "url(\"bg.jpg\")"
+                    shutil.copy(input_file_path+value, path + "css" + os.path.sep + "bgimage")
+                    value = "url(\"bgimage\")"
                 customCSS.write("{0} : {1};".format(preDefCSS[key],value))
     customCSS.write("}")
     customCSS.close()

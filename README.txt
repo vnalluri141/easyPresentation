@@ -30,3 +30,12 @@ Please refer to below link for markdown syntax.
 
 [markdown basics] http://daringfireball.net/projects/markdown/basics
 [python-markdown] https://pythonhosted.org/Markdown/
+
+
+Adding new templates : 
+
+New templates can be added by following below simple steps :
+
+1. Make sure slider worksfor <div> or <sections> or any tag that can have text content.
+2. Place '--slide content--' key word where all the generated <div> shouls be placed
+3. 
