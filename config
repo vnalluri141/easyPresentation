@@ -1,0 +1,16 @@
+Template id : 1
+Template name : template1.html
+Template path : template1/
+current slide : <div style="display: inline-block;">
+all slides : <div style="display: none;">
+time interval keyword : $SlideDuration
+default time interval : 10000
+
+Template id : 2
+Template name : template2.html
+Template path : template2/
+current slide : <div>
+all slides : <div>
+time interval keyword : $SlideDuration
+default time interval : 1000
+

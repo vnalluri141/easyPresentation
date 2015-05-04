@@ -1,0 +1,75 @@
+[bgcolor:yellow] [text-color:black] [font:calibre ;font-size:20px]
+[bgimage-size:100% 100%][left-margin:50px]
+
+~slidestart
+<BR>&nbsp;<BR>
+<BR>&nbsp;<BR>
+<section style="text-align:center;padding-top:200px;">
+<span style="color:red;font-size:40px;line-height: 10%;">  *easy*  </span>
+<span style="color:blue;font-size:80px;line-height: 70%;text-shadow: 2px 2px 8px #FF0000;"> **Presentation** </span>
+</section>
+~slideend
+~slidestart
+
+#What is this tool
+- - -   
+* ###Takes a text  file as Input   
+	- Sample code   
+	![Sample snippet](sample3.jpg "So simple!!")
+* ###Converts text file to a html file
+* ###Those generated html file can be opened with anybrowser and give presentations
+
+~slideend
+
+~slidestart
+
+#Features
+************
+
+* ####Block code.
+
+	- We can add the script and its executions here it self
+
+		+ code block :   
+			 ````html
+		Password: <input type="password" name="pw" pattern=".{6,}" title="Six or more characters">   
+		<input type="submit"> ````
+		+ Actual output :   
+		<form action="">
+		Password: <input type="password" name="pw" pattern=".{6,}" title="Six or more characters">
+		<input type="submit"></form>
+
+* ####To make an effective presentation: 
+	- We can add code blocks inline ``There is a literal backtick (`) here.`` :)  
+
+* ####Easy to read and write:
+	- All you need is just to have a glance at text file to know the conent of presentation
+* ####Also because its totally free!!   
+	- you can make your own changesand use it for any purpose 
+~slideend
+
+~slidestart
+
+# Why should I care  #
+* * *
+
+Because:
+
+ 1. Try something new, do it differently from others and be cool!! 
+ 2. To make an effective presentaion :
+
+      * Easy to read slides.
+      * Use your own sliders and templetes.
+      * Show your own css style effectively in presentation
+      * If you are a web developer, then what you see is what will you get.
+
+ 3. Highly  customizable :
+      * You can add new templetes to configuration files
+      * Use what ever markdown you like 
+      * If you are a web developer, then what you see is what will you get.
+
+ 3. also because its totally free!!
+ 
+~slideend
+
+
