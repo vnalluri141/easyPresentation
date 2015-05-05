@@ -91,6 +91,9 @@ def main(argv):
         print ('use -h or --help for getting help')
         sys.exit(2)
 
+    if not path.endswith(os.path.sep):
+        path = path + os.path.sep
+
     input_textfile_path = os.path.dirname(os.path.abspath(input_file_name)) + os.path.sep
     # opening input txt file
     f = open(input_file_name,"r")
