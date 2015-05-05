@@ -10,6 +10,8 @@ Install :
 
 Copy files from following link and paste it where even you like. 
 
+https://github.com/vnalluri141/easyPresentation
+
 How to Use : 
 ------------
 create a text file. 
